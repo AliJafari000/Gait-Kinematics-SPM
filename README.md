@@ -1,5 +1,5 @@
 # Gait-Kinematics-SPM
-Python implementation of 1D Statistical Parametric Mapping (SPM) and cluster permutation tests for biomechanical gait analysis.
+
 # 1D Statistical Parametric Mapping (SPM) for Gait Kinematics Analysis
 
 A robust Python tool tailored for biomechanical analysis of human gait. This repository implements **1D Cluster Permutation Inference** (both two-sample and paired t-tests) to compare lower-extremity joint kinematics (Hip, Knee, and Ankle) across the gait cycle (0-100%).
