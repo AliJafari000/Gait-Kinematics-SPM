@@ -1,3 +1,4 @@
+![Project Cover](cover.png)
 # Gait-Kinematics-SPM
 
 # 1D Statistical Parametric Mapping (SPM) for Gait Kinematics Analysis
